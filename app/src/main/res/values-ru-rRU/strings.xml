@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Список стран</string>
+    <string name="image_description">Изображение с флагом страны</string>
+    <string name="country_language">Язык:</string>
+    <string name="country_timezone">Часовой пояс:</string>
+    <string name="country_currency">Валюта:</string>
+    <string name="error">Ошибка</string>
+    <string name="country_name">Название:</string>
+</resources>

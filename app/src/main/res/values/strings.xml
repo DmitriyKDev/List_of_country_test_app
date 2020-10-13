@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">List of country</string>
+    <string name="image_description">Image with country flag</string>
+    <string name="country_language">Language:</string>
+    <string name="country_timezone">Timezone:</string>
+    <string name="country_currency">Currency:</string>
+    <string name="error">Error</string>
+    <string name="country_name">Name:</string>
+</resources>
